@@ -3,6 +3,10 @@
     box-sizing: border-box;
     padding: 0%;
 }
+
+body{
+    background-color: #222224;
+}
 .first_section_header{
     margin: 0px 15% 0px 15%;
     display: flex;
